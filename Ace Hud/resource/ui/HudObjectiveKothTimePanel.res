@@ -75,7 +75,7 @@
 			
 			if_match
 			{
-				"font"		"museo12"
+				"font"			"museo12"
 				"xpos"			"20"
 				"ypos"			"8"
 			}
@@ -91,7 +91,7 @@
 		"zpos"				"-5"
 		"wide"				"56"
 		"tall"				"3"
-		"fillcolor"		"234 234 234 255"
+		"fillcolor"			"234 234 234 255"
 		"visible"			"0"
 		"enabled"			"1"
 	}
