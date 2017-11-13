@@ -6601,7 +6601,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "234 234 234 255"
 					"offset" "0 1"
 				}
 			}
@@ -6610,7 +6610,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "234 234 234 255"
 					"offset" "1 0"
 				}
 			}
@@ -6619,7 +6619,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "234 234 234 255"
 					"offset" "0 0"
 				}
 			}
@@ -6628,7 +6628,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "234 234 234 255"
 					"offset" "0 0"
 				}
 			}
