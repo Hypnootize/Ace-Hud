@@ -39,8 +39,8 @@
 			if_match
 			{
 				"font"		"museo12"
-				"xpos"			"43"
-				"ypos"			"8"
+				"xpos"		"45"
+				"ypos"		"9"
 			}
 		}	
 	}
@@ -77,7 +77,7 @@
 			{
 				"font"			"museo12"
 				"xpos"			"20"
-				"ypos"			"8"
+				"ypos"			"9"
 			}
 		}	
 	}
