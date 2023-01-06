@@ -17,7 +17,7 @@
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
 		"HealthDeathWarning"	"0.49"
-		"HealthDeathWarningColor"	"Garm3nRed"
+		"HealthDeathWarningColor"	"HUDDeathWarning"
 	}
 //
 //############################
@@ -134,27 +134,6 @@
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"
 	}
-	"crosstest"
-	{
-		"ControlName"		"ScalableImagePanel"
-		"fieldName"		"crosstest"
-		"xpos"		"52"
-		"ypos"		"24"
-		"zpos"		"2"
-		"wide"		"84"
-		"tall"		"84"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			"replay/thumbnails/crossTest"
-		
-		"src_corner_height"	"18"
-		"src_corner_width"	"20"
-		"draw_corner_width"	"3"	
-		"draw_corner_height" "3"	
-		"scaleImage"		"1"
-	}
 	"MilkyBG"
 	{
 		"ControlName"		"ScalableImagePanel"
@@ -191,7 +170,7 @@
 		"textAlignment"	"center"	
 		"font_minmode"			"DemiBold34"
 		"font"			"DemiBold48"
-		//"fgcolor"		"Garm3nWhite"
+		//"fgcolor"		"White"
 		"fgcolor"		"234 234 234 255"
 	}
 	"PlayerStatusHealthValueShadow"
@@ -209,7 +188,7 @@
 		"textAlignment"	"center"	
 		"font"			"DemiBold48"
 		"font_minmode"	"DemiBold34"
-		//"fgcolor"		"Garm3nWhite"
+		//"fgcolor"		"White"
 		"fgcolor"		"0 0 0 255"
 	}
 	"CrossSign"
@@ -226,7 +205,7 @@
 		"labelText"		"+"
 		"textAlignment"	"center"	
 		"font"			"Book38"
-		//"fgcolor"		"Garm3nWhite"
+		//"fgcolor"		"White"
 		"fgcolor"		"32 32 32 255"
 	}
 	"ShadedBarThin"
@@ -297,7 +276,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"DemiBold48"
-		"fgcolor"		"Garm3nBlack"
+		"fgcolor"		"Black"
 	}
 	"PlayerStatusBleedImage"
 	{

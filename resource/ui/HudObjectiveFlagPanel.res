@@ -252,7 +252,7 @@
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
 		"font"			"Medium28"
-		"fgcolor"		"Garm3nBlack"
+		"fgcolor"		"Black"
 		
 		"if_hybrid"
 		{
@@ -316,7 +316,7 @@
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
 		"font"			"Medium28"
-		"fgcolor"		"Garm3nBlack"		
+		"fgcolor"		"Black"		
 		
 		"if_hybrid"
 		{
@@ -390,7 +390,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"Garm3n9"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 		
 		"if_hybrid"
 		{

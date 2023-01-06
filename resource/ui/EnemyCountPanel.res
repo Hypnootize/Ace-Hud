@@ -49,7 +49,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"EnemyCount"
 		"font"			"ChatFont"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 		"xpos"			"1"
 		"ypos"			"15"
 		"ypos_minmode"		"22"

@@ -71,7 +71,7 @@
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
 		"font"			"ChatFont"
-		"fgcolor_override" "Garm3nTarget"
+		"fgcolor_override" "White"
 	}
 	"BuyBackLabel"
 	{

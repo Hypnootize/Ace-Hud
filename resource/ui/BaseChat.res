@@ -10,7 +10,7 @@
 		"ypos"			          "300"
 		"wide"	 		          "242"
 		"tall"	 		          "120"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 		"PaintBackgroundType"	"2"
 	}
 

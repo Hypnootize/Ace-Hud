@@ -34,7 +34,7 @@
 		"enabled"		"1"
 		"wrap"			"1"
 		"labelText"		""
-		"fgcolor"		"Garm3nTarget"
+		"fgcolor"		"White"
 		"textAlignment"		"center"
 	}
 	"AlertImage"

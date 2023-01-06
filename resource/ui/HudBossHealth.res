@@ -82,7 +82,7 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor_override"	"Garm3nWhite"
+		"fgcolor_override"	"White"
 		"bgcolor_override"	"0 0 0 175"
 	}					
 }

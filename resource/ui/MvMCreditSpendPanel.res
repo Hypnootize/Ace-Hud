@@ -37,7 +37,7 @@
 		"xpos"			"10"
 		"ypos"			"25"
 		"wide"			"70"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 	}
 	
 	"UpgradesCountLabel"
@@ -50,7 +50,7 @@
 		"xpos"			"63"
 		"ypos"			"25"
 		"wide"			"30"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 	}
 	
 	"BuyBackLabel"
@@ -63,7 +63,7 @@
 		"xpos"			"10"
 		"ypos"			"45"
 		"wide"			"70"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 	}
 	
 	"BuyBackCountLabel"
@@ -76,7 +76,7 @@
 		"xpos"			"63"
 		"ypos"			"45"
 		"wide"			"30"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 	}
 	
 	"BottleLabel"
@@ -89,7 +89,7 @@
 		"xpos"			"10"
 		"ypos"			"65"
 		"wide"			"70"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 	}
 	
 	"BottleCountLabel"
@@ -102,6 +102,6 @@
 		"xpos"			"63"
 		"ypos"			"65"
 		"wide"			"30"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 	}
 }

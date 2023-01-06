@@ -177,7 +177,7 @@
 			"dulltext"		"1"
 			"brighttext"	"0"
 			"font"			"DemiBold23"
-			"fgcolor"		"Garm3nRed"
+			"fgcolor"		"HUDDeathWarning"
 		}
 
 		"NumPipesLabelShadow"
@@ -200,7 +200,7 @@
 			"dulltext"		"1"
 			"brighttext"	"0"
 			"font"			"Book23"
-			"fgcolor"		"Garm3nBlack"
+			"fgcolor"		"Black"
 		}			
 	}				
 }

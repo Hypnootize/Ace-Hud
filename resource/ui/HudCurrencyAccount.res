@@ -5,7 +5,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"Currency"
 		"font"			"Book13"
-		"fgcolor"		"Garm3nGreen"
+		"fgcolor"		"CreditsGreen"
 		"xpos"			"16"
 		"ypos"			"47"
 		"zpos"			"3"

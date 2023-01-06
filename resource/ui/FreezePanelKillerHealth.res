@@ -142,6 +142,6 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
 		"font"			"DemiBold23"
-		"fgcolor"		"Garm3nBlack"
+		"fgcolor"		"Black"
 	}								
 }

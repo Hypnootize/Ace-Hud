@@ -36,7 +36,7 @@
 		"enabled"		"1"
 		"wrap"			"1"
 		"labelText"		"#TF_teambalanced"
-		"fgcolor"		"Garm3nTarget"
+		"fgcolor"		"White"
 		"textAlignment"		"North"
 	}
 	"BalanceLabel"
@@ -57,7 +57,7 @@
 		"enabled"		"1"
 		"wrap"			"1"
 		"labelText"		""
-		"fgcolor"		"Garm3nTarget"
+		"fgcolor"		"White"
 		"textAlignment"		"North"
 	}
 	"SwitchImage"

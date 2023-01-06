@@ -12,7 +12,7 @@
 		"pinCorner"				"2"
 		"visible"				"0"
 		"enabled"				"1"
-		"fgcolor_override" "Garm3nMetal"
+		"fgcolor_override" "Gray"
 		"labelText"				"STICKY"
 		"textAlignment"			"center"
 		"font"					"Book9"

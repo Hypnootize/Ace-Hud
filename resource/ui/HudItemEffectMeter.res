@@ -42,7 +42,7 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"labelText"			"#TF_Ball"
-		"fgcolor_override" "Garm3nMetal"
+		"fgcolor_override" "Gray"
 		"textAlignment"			"center"
 		"font"				"Book9"
 	}

@@ -366,7 +366,7 @@
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
 		"font"			"ChatFont"
-		"fgcolor_override" "Garm3nTarget"
+		"fgcolor_override" "White"
 
 		if_mvm
 		{
@@ -387,7 +387,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#TF_PVE_Buyback"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 		"textAlignment"	"center"
 		"font"			"ChatFont"
 		"wrap"			"1"

@@ -65,7 +65,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"Garm3nTarget"
+			"fgcolor"		"White"
 			"labelText"		"#Winpanel_PVE_Evil_Wins"
 			"textAlignment"		"Center"
 		}
@@ -87,7 +87,7 @@
 		"enabled"		"1"
 		"labelText"		"%WinReasonLabel%"
 		"textAlignment"		"Center"
-		"fgcolor"		"Garm3nTarget"
+		"fgcolor"		"White"
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
@@ -108,7 +108,7 @@
 		"enabled"		"1"
 		"labelText"		"%DetailsLabel%"
 		"textAlignment"		"Center"
-		"fgcolor"		"Garm3nTarget"
+		"fgcolor"		"White"
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"1"

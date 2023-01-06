@@ -129,7 +129,7 @@
 			"enabled"		"1"
 			"labelText"		"#FreezePanel_Killer"
 			"textAlignment"		"center"
-			"fgcolor"		"Garm3nWhite"
+			"fgcolor"		"White"
 			"dulltext"		"0"
 			"brighttext"		"0"
 		}
@@ -264,7 +264,7 @@
 				"visible"		"0"
 				"enabled"		"1"
 				"labelText"		"%nemesisname%"
-				"fgcolor"		"Garm3nWhite"
+				"fgcolor"		"White"
 				"textAlignment"		"center"
 			}
 			"NemesisLabel2"

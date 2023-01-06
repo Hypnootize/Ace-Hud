@@ -11,7 +11,7 @@
 		"ypos"			"0"
 		"wide"			"184"
 		"tall"			"22"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 	}
 		
 	"TableBackground"
@@ -37,7 +37,7 @@
 		"xpos"			"10"
 		"ypos"			"26"
 		"wide"			"70"
-		"fgcolor"		"Garm3nTarget"
+		"fgcolor"		"White"
 	}
 	
 	"CreditCollectedCountLabel"
@@ -50,7 +50,7 @@
 		"xpos"			"63"
 		"ypos"			"26"
 		"wide"			"30"
-		"fgcolor"		"Garm3nGreen"
+		"fgcolor"		"CreditsGreen"
 	}
 	
 	"CreditMissedTextLabel"
@@ -63,7 +63,7 @@
 		"xpos"			"10"
 		"ypos"			"46"
 		"wide"			"70"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 	}
 	
 	"CreditMissedCountLabel"
@@ -76,7 +76,7 @@
 		"xpos"			"63"
 		"ypos"			"46"
 		"wide"			"30"
-		"fgcolor"		"Garm3nRed"
+		"fgcolor"		"HUDDeathWarning"
 	}
 	
 	"CreditBonusTextLabel"
@@ -89,7 +89,7 @@
 		"xpos"			"10"
 		"ypos"			"66"
 		"wide"			"70"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 	}
 	
 	"CreditBonusCountLabel"
@@ -102,7 +102,7 @@
 		"xpos"			"63"
 		"ypos"			"66"
 		"wide"			"30"
-		"fgcolor"		"Garm3nGreen"
+		"fgcolor"		"CreditsGreen"
 	}
 		
 	"CreditRatingLabelShadow"
@@ -130,6 +130,6 @@
 		"ypos"			"25"
 		"wide"			"70"
 		"tall"			"20"
-		"fgcolor"		"Garm3nWhite"
+		"fgcolor"		"White"
 	}
 }

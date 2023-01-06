@@ -67,7 +67,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyBad"
 		"font"			"Book13"
-		"fgcolor"		"Garm3nRed"
+		"fgcolor"		"HUDDeathWarning"
 		"xpos"			"16"
 		"ypos"			"8"
 		"zpos"			"4"
